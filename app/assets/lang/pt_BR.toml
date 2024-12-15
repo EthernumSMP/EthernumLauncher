@@ -110,8 +110,8 @@ changelog = "Changelog"
 noReleaseNotes = "No Release Notes"
 viewReleaseNotes = "View Release Notes on GitHub"
 launcherUpdatesHeaderText = "Launcher Updates"
-launcherUpdatesHeaderDesc = "Download, install, and review updates for the launcher."
-checkForUpdates = "Check for Updates"
+launcherUpdatesHeaderDesc = "Baixe e Instale atualizações do nosso Launcher."
+checkForUpdates = "Verificar Atualizações"
 whatsNew = "What's New"
 updateReleaseNotes = "Update Release Notes"
 
@@ -188,7 +188,7 @@ fatalError = "Erro Fatal"
 unableToLoadDistributionIndex = "Não foi possível carregar as informações do servidor."
 pleaseWait = "Por favor, aguarde.."
 errorDuringLaunchTitle = "Ocorreu um erro ao iniciar"
-seeConsoleForDetails = "Entre em contato com o suporte via discord."
+seeConsoleForDetails = "Entre em contato com o suporte via discord em discord.gg/planetacobblemon."
 validatingFileIntegrity = "Validando integridade dos arquivos.."
 errorDuringFileVerificationTitle = "Ocorreu um erro na verificação"
 downloadingFiles = "Baixando arquivos.."
@@ -204,7 +204,7 @@ checking = "Checking for News"
 
 [js.landing.discord]
 loading = "Abrindo o jogo.."
-joining = "Entrando no servidor Cobblemon!"
+joining = "Entrando no servidor Planeta Cobblemon!"
 joined = "Explorando o mundo!"
 
 [js.overlay]
