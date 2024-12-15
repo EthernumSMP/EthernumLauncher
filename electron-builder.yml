@@ -1,5 +1,5 @@
 appId: 'planetalauncher'
-productName: 'Planeta Cobblemon'
+productName: 'Planeta_Cobblemon'
 artifactName: '${productName}-${version}.${ext}'
 
 copyright: 'Copyright © 2023-2024 Planeta Cobblemon'
