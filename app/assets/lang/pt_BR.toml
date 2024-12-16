@@ -269,7 +269,7 @@ downloadingButton = "Baixando.."
 downloadButton = 'Download from GitHub<span style="font-size: 10px;color: gray;text-shadow: none !important;">Close the launcher and run the dmg to update.</span>'
 latestVersionTitle = "Você já está na versão mais recente"
 checkForUpdatesButton = "Verificar atualizações"
-checkingForUpdatesButton = "Checking for Updates.."
+checkingForUpdatesButton = "Verificando Atualizações.."
 
 [js.uibinder.startup]
 fatalErrorTitle = "Fatal Error: Unable to Load Distribution Index"
