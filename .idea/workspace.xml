@@ -5,41 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55b635b9-26e3-492f-93d5-0e3dfed60b5b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher" beforeDir="false" afterPath="$PROJECT_DIR$/PlanetaLauncher" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/fonts/Avenir-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/fonts/Avenir-BlackOblique.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/fonts/Avenir-Book.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/fonts/Avenir-BookOblique.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/fonts/Avenir-Heavy.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/fonts/Avenir-HeavyOblique.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/fonts/Avenir-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/fonts/Avenir-LightOblique.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/fonts/Avenir-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/fonts/Avenir-MediumOblique.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/fonts/Avenir-Oblique.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/fonts/Avenir-Roman.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/fonts/ringbearer.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/images/SealCircle.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/js/authmanager.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/js/configmanager.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/js/discordwrapper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/js/distromanager.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/js/dropinmodutil.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/js/ipcconstants.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/js/isdev.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/js/langloader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/js/preloader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/js/processbuilder.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/js/scripts/landing.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/js/scripts/login.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/js/scripts/loginOptions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/js/scripts/overlay.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/js/scripts/settings.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/js/scripts/uibinder.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/js/scripts/uicore.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/js/scripts/welcome.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/app/assets/js/serverstatus.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanetaLauncher/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/css/launcher.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/css/launcher.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/js/configmanager.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/js/configmanager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/js/scripts/uibinder.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/js/scripts/uibinder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +29,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "4d42088b",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -89,6 +59,7 @@
       <workItem from="1733964836844" duration="2002000" />
       <workItem from="1734050351388" duration="4852000" />
       <workItem from="1734128748910" duration="8746000" />
+      <workItem from="1735757511945" duration="235000" />
     </task>
     <servers />
   </component>
