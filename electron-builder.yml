@@ -2,7 +2,7 @@ appId: 'planetalauncher'
 productName: 'Planeta_Cobblemon'
 artifactName: '${productName}-${version}.${ext}'
 
-copyright: 'Copyright © 2023-2024 Planeta Cobblemon'
+copyright: 'Copyright © 2024-2025 Planeta Cobblemon'
 
 asar: true
 compression: 'maximum'

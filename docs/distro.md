@@ -164,8 +164,8 @@ Server-specific Java options.
 #### Example
 ```JSON
 {
-    "supported": ">=17",
-    "suggestedMajor": 17,
+    "supported": ">=21",
+    "suggestedMajor": 21,
     "platformOptions": [
       {
         "platform": "darwin",
@@ -251,11 +251,11 @@ NOTE If supported is specified, suggestedMajor must be set. The launcher's defau
 
 Common use case:
   - supported: '>=17.x'
-  - suggestedMajor: 17
+  - suggestedMajor: 21
 
 More involved:
   - supported: '>=16 <20'
-  - suggestedMajor: 17
+  - suggestedMajor: 21
 
 Given a wider support range, it becomes necessary to specify which major version in the range is the suggested.
 

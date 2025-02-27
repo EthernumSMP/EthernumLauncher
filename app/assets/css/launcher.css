@@ -3001,7 +3001,7 @@ input:checked + .toggleSwitchSlider:before {
 
 /* User profile name text. */
 #user_text {
-  font-size: 12px;
+  font-size: 16px;
   min-width: 135px;
   font-weight: 900;
   letter-spacing: 1px;
@@ -3035,7 +3035,7 @@ input:checked + .toggleSwitchSlider:before {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 27px;
+  height: 30px;
 }
 
 /* Divider bar between the external and internal icons. */
@@ -3049,16 +3049,16 @@ input:checked + .toggleSwitchSlider:before {
 /* Social media icon shared styles. */
 .mediaSVG {
   fill: #ffffff;
-  height: 12px;
+  height: 17px;
   transition: 0.25s ease;
   cursor: pointer;
-  height: 12px;
-  width: 25px;
+  height: 17px;
+  width: 30px;
 }
 .mediaSVG:hover,
 .mediaURL:focus .mediaSVG,
 .mediaSVG:active {
-  height: 20px;
+  height: 25px;
 }
 
 /* Social media URL shared styles. */
@@ -3083,12 +3083,12 @@ input:checked + .toggleSwitchSlider:before {
 /* Settings icon colors. */
 #settingsSVG {
   stroke: #ffffff;
-  height: 15px;
+  height: 20px;
 }
 .mediaButton:hover #settingsSVG,
 .mediaButton:focus #settingsSVG,
 .mediaButton:active #settingsSVG {
-  height: 23px;
+  height: 28px;
 }
 
 /* Settings tooltip styles. */
@@ -3160,6 +3160,24 @@ input:checked + .toggleSwitchSlider:before {
 }
 #discordSVG:active {
   fill: #657ac4;
+}
+
+/* Tiktok icon colors. */a
+#tiktokSVG:hover,
+#tiktokURL:focus #tiktokSVG {
+  fill: #971090;
+}
+#discordSVG:active {
+  fill: #102677;
+}
+
+/* Site icon colors. */
+#siteSVG:hover,
+#siteURL:focus #siteSVG {
+  fill: #df9815;
+}
+#siteSVG:active {
+  fill: #6e4d04;
 }
 
 /*******************************************************************************

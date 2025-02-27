@@ -150,7 +150,7 @@ function updateSelectedAccount(authUser){
             username = authUser.displayName
         }
         if(authUser.uuid != null){
-            document.getElementById('avatarContainer').style.backgroundImage = `url('https://mc-heads.net/body/${authUser.uuid}/right')`
+            document.getElementById('avatarContainer').style.backgroundImage = `url('https://mc-heads.net/avatar/${authUser.uuid}/right')`
         }
     }
     user_text.innerHTML = username
@@ -192,7 +192,7 @@ const refreshServerStatus = async (fade = false) => {
         pVal = servStat.players.online + '/' + servStat.players.max
 
     } catch (err) {
-        loggerLanding.warn('Unable to refresh server status, assuming offline.')
+        loggerLanding.warn('Unable to refresh server status, assuming offline.') //aqui verificacao offline
         loggerLanding.debug(err)
     }
     if(fade){
